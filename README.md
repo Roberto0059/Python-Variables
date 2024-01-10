@@ -20,33 +20,28 @@ In this lab, you'll practice assigning values to variables and determining their
 <h2>Exercises</h2>
 
 <p align="left">
-In your work as an analyst, imagine there is a device only users specified on an allow list can access, and its device ID is "72e08x0". In the following code cell, assign this value to a variable named device_id. Then, display the contents of the variable and observe the output. <br/>
+1. In your work as an analyst, imagine there is a device only users specified on an allow list can access, and its device ID is "72e08x0". In the following code cell, assign this value to a variable named device_id. Then, display the contents of the variable and observe the output. <br/>
   
-<img src="https://i.imgur.com/a/xTrJY78.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/8e5x9i4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+1. Output:  <br/>
+<img src="https://imgur.com/QQDKyVe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+<p align="left">
+2. Now, imagine that you've been informed that the previous list is not up-to-date and that there is another employee that now has access to the device. You're given the updated list of usernames with access, including the new employee, as follows: "madebowa", "jnguyen", "tbecker", "nhersh", "redwards", and "lpope". In this task, reassign the variable username_list to the new list. Run the code to display the list before and after it's been updated to observe the difference.
+   
+<img src="https://imgur.com/DiGLVvv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+2. Output:  <br/>
+<img src="https://imgur.com/wDYCPin.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 
 <!--
