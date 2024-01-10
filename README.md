@@ -22,7 +22,7 @@ In this lab, you'll practice assigning values to variables and determining their
 <p align="left">
 In your work as an analyst, imagine there is a device only users specified on an allow list can access, and its device ID is "72e08x0". In the following code cell, assign this value to a variable named device_id. Then, display the contents of the variable and observe the output. <br/>
   
-<img src="https://imgur.com/a/xTrJY78)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/xTrJY78.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
